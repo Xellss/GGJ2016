@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 00cc0c152a35fc6419ee77c95505be2d
+timeCreated: 1454220353
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_L1
+    100002: Arm_L2
+    100004: Arm_L3
+    100006: Arm_L4
+    100008: Arm_L5
+    100010: Arm_R1
+    100012: Arm_R2
+    100014: Arm_R3
+    100016: Arm_R4
+    100018: Arm_R5
+    100020: Bein_L1
+    100022: Bein_L2
+    100024: Bein_L3
+    100026: Bein_L4
+    100028: Bein_L5
+    100030: Bein_R1
+    100032: Bein_R2
+    100034: Bein_R3
+    100036: Bein_R4
+    100038: Bein_R5
+    100040: //RootNode
+    100042: "H\xFCfte"
+    100044: Kinn
+    100046: Kopf
+    100048: Kopf_Oben
+    100050: polySurface35
+    100052: Schweif1
+    100054: Schweif10
+    100056: Schweif11
+    100058: Schweif12
+    100060: Schweif2
+    100062: Schweif3
+    100064: Schweif4
+    100066: Schweif5
+    100068: Schweif6
+    100070: Schweif7
+    100072: Schweif8
+    100074: Schweif9
+    100076: Wirbel1
+    100078: Wirbel2
+    100080: Wirbel3
+    100082: Wirbel4
+    100084: Wirbel5
+    100086: Wirbel6
+    100088: Wirbel7
+    100090: Wirbel8
+    400000: Arm_L1
+    400002: Arm_L2
+    400004: Arm_L3
+    400006: Arm_L4
+    400008: Arm_L5
+    400010: Arm_R1
+    400012: Arm_R2
+    400014: Arm_R3
+    400016: Arm_R4
+    400018: Arm_R5
+    400020: Bein_L1
+    400022: Bein_L2
+    400024: Bein_L3
+    400026: Bein_L4
+    400028: Bein_L5
+    400030: Bein_R1
+    400032: Bein_R2
+    400034: Bein_R3
+    400036: Bein_R4
+    400038: Bein_R5
+    400040: //RootNode
+    400042: "H\xFCfte"
+    400044: Kinn
+    400046: Kopf
+    400048: Kopf_Oben
+    400050: polySurface35
+    400052: Schweif1
+    400054: Schweif10
+    400056: Schweif11
+    400058: Schweif12
+    400060: Schweif2
+    400062: Schweif3
+    400064: Schweif4
+    400066: Schweif5
+    400068: Schweif6
+    400070: Schweif7
+    400072: Schweif8
+    400074: Schweif9
+    400076: Wirbel1
+    400078: Wirbel2
+    400080: Wirbel3
+    400082: Wirbel4
+    400084: Wirbel5
+    400086: Wirbel6
+    400088: Wirbel7
+    400090: Wirbel8
+    4300000: polySurface35
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface35
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: "H\xFCfte"
+        weight: 1
+      - path: "H\xFCfte/Bein_L1"
+        weight: 1
+      - path: "H\xFCfte/Bein_L1/Bein_L2"
+        weight: 1
+      - path: "H\xFCfte/Bein_L1/Bein_L2/Bein_L3"
+        weight: 1
+      - path: "H\xFCfte/Bein_L1/Bein_L2/Bein_L3/Bein_L4"
+        weight: 1
+      - path: "H\xFCfte/Bein_L1/Bein_L2/Bein_L3/Bein_L4/Bein_L5"
+        weight: 1
+      - path: "H\xFCfte/Bein_R1"
+        weight: 1
+      - path: "H\xFCfte/Bein_R1/Bein_R2"
+        weight: 1
+      - path: "H\xFCfte/Bein_R1/Bein_R2/Bein_R3"
+        weight: 1
+      - path: "H\xFCfte/Bein_R1/Bein_R2/Bein_R3/Bein_R4"
+        weight: 1
+      - path: "H\xFCfte/Bein_R1/Bein_R2/Bein_R3/Bein_R4/Bein_R5"
+        weight: 1
+      - path: "H\xFCfte/Schweif1"
+        weight: 1
+      - path: "H\xFCfte/Schweif1/Schweif2"
+        weight: 1
+      - path: "H\xFCfte/Schweif1/Schweif2/Schweif3"
+        weight: 1
+      - path: "H\xFCfte/Schweif1/Schweif2/Schweif3/Schweif4"
+        weight: 1
+      - path: "H\xFCfte/Schweif1/Schweif2/Schweif3/Schweif4/Schweif5"
+        weight: 1
+      - path: "H\xFCfte/Schweif1/Schweif2/Schweif3/Schweif4/Schweif5/Schweif6"
+        weight: 1
+      - path: "H\xFCfte/Schweif1/Schweif2/Schweif3/Schweif4/Schweif5/Schweif6/Schweif7"
+        weight: 1
+      - path: "H\xFCfte/Schweif1/Schweif2/Schweif3/Schweif4/Schweif5/Schweif6/Schweif7/Schweif8"
+        weight: 1
+      - path: "H\xFCfte/Schweif1/Schweif2/Schweif3/Schweif4/Schweif5/Schweif6/Schweif7/Schweif8/Schweif9"
+        weight: 1
+      - path: "H\xFCfte/Schweif1/Schweif2/Schweif3/Schweif4/Schweif5/Schweif6/Schweif7/Schweif8/Schweif9/Schweif10"
+        weight: 1
+      - path: "H\xFCfte/Schweif1/Schweif2/Schweif3/Schweif4/Schweif5/Schweif6/Schweif7/Schweif8/Schweif9/Schweif10/Schweif11"
+        weight: 1
+      - path: "H\xFCfte/Schweif1/Schweif2/Schweif3/Schweif4/Schweif5/Schweif6/Schweif7/Schweif8/Schweif9/Schweif10/Schweif11/Schweif12"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Arm_L1"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Arm_L1/Arm_L2"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Arm_L1/Arm_L2/Arm_L3"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Arm_L1/Arm_L2/Arm_L3/Arm_L4"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Arm_L1/Arm_L2/Arm_L3/Arm_L4/Arm_L5"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Arm_R1"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Arm_R1/Arm_R2"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Arm_R1/Arm_R2/Arm_R3"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Arm_R1/Arm_R2/Arm_R3/Arm_R4"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Arm_R1/Arm_R2/Arm_R3/Arm_R4/Arm_R5"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Wirbel5"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Wirbel5/Wirbel6"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Wirbel5/Wirbel6/Wirbel7"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Wirbel5/Wirbel6/Wirbel7/Wirbel8"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Wirbel5/Wirbel6/Wirbel7/Wirbel8/Kopf"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Wirbel5/Wirbel6/Wirbel7/Wirbel8/Kopf/Kinn"
+        weight: 1
+      - path: "H\xFCfte/Wirbel1/Wirbel2/Wirbel3/Wirbel4/Wirbel5/Wirbel6/Wirbel7/Wirbel8/Kopf/Kopf_Oben"
+        weight: 1
+      - path: polySurface35
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
