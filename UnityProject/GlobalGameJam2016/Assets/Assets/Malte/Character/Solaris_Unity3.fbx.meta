@@ -120,7 +120,7 @@ ModelImporter:
     400110: transform55
     400112: transform56
     4300000: polySurface146
-    7400000: Take 001
+    7400000: T
     7400002: Idle
     7400004: Run
     7400006: Walk
@@ -137,12 +137,7 @@ ModelImporter:
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
-    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
-      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
-      improve retargeting quality.\n\t'Chest' is inbetween humanoid transforms and
-      has rotation animation that will be discarded.\n\t'l_ball' is inbetween humanoid
-      transforms and has rotation animation that will be discarded.\n\t'r_ball' is
-      inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     animationCompression: 3
@@ -449,6 +444,152 @@ ModelImporter:
       takeName: Take 001
       firstFrame: 164
       lastFrame: 226
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: hip_leg
+        weight: 1
+      - path: hip_leg/l_Leg
+        weight: 1
+      - path: hip_leg/l_Leg/l_knee
+        weight: 1
+      - path: hip_leg/l_Leg/l_knee/l_ankle
+        weight: 1
+      - path: hip_leg/l_Leg/l_knee/l_ankle/l_ball
+        weight: 1
+      - path: hip_leg/l_Leg/l_knee/l_ankle/l_ball/l_toe
+        weight: 1
+      - path: hip_leg/r_Leg
+        weight: 1
+      - path: hip_leg/r_Leg/r_knee
+        weight: 1
+      - path: hip_leg/r_Leg/r_knee/r_ankle
+        weight: 1
+      - path: hip_leg/r_Leg/r_knee/r_ankle/r_ball
+        weight: 1
+      - path: hip_leg/r_Leg/r_knee/r_ankle/r_ball/r_toe
+        weight: 1
+      - path: hip_leg/spine1
+        weight: 1
+      - path: hip_leg/spine1/Spine2
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder/l_elbow
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder/l_elbow/l_hand
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder/l_elbow/l_hand/l_middle1
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder/l_elbow/l_hand/l_middle1/l_middle2
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder/l_elbow/l_hand/l_middle1/l_middle2/l_middle3
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder/l_elbow/l_hand/l_pinky1
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder/l_elbow/l_hand/l_pinky1/l_pinky2
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder/l_elbow/l_hand/l_pinky1/l_pinky2/l_pinky3
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder/l_elbow/l_hand/l_pinky1/l_pinky2/l_pinky3/joint25
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder/l_elbow/l_hand/l_pinky1/l_pinky2/l_pinky3/joint25/joint26
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder/l_elbow/l_hand/l_thumb1
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder/l_elbow/l_hand/l_thumb1/l_thumb2
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder/l_elbow/l_hand/l_thumb1/l_thumb2/l_thumb3
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder/l_elbow/l_hand/l_thumb1/l_thumb2/l_thumb3/joint20
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/l_clav/l_shoulder/l_elbow/l_hand/l_thumb1/l_thumb2/l_thumb3/joint20/joint21
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/neck
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/neck/Head
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/neck/Head/Head_end
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder/r_elbow
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder/r_elbow/r_hand
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder/r_elbow/r_hand/r_middle1
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder/r_elbow/r_hand/r_middle1/r_middle2
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder/r_elbow/r_hand/r_middle1/r_middle2/r_middle3
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder/r_elbow/r_hand/r_pinky1
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder/r_elbow/r_hand/r_pinky1/r_pinky2
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder/r_elbow/r_hand/r_pinky1/r_pinky2/r_pinky3
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder/r_elbow/r_hand/r_pinky1/r_pinky2/r_pinky3/joint25
+          1
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder/r_elbow/r_hand/r_pinky1/r_pinky2/r_pinky3/joint25
+          1/joint26 1
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder/r_elbow/r_hand/r_thumb1
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder/r_elbow/r_hand/r_thumb1/r_thumb2
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder/r_elbow/r_hand/r_thumb1/r_thumb2/r_thumb3
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder/r_elbow/r_hand/r_thumb1/r_thumb2/r_thumb3/joint20
+          1
+        weight: 1
+      - path: hip_leg/spine1/Spine2/Chest/r_clav/r_shoulder/r_elbow/r_hand/r_thumb1/r_thumb2/r_thumb3/joint20
+          1/joint21 1
+        weight: 1
+      - path: Solaris_Girl
+        weight: 1
+      - path: Solaris_Girl/polySurface141
+        weight: 1
+      - path: Solaris_Girl/polySurface141/polySurface146
+        weight: 1
+      - path: Solaris_Girl/polySurface141/transform56
+        weight: 1
+      - path: Solaris_Girl/transform55
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: T
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 0
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
